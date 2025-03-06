@@ -1,4 +1,4 @@
-# Website Development Ideas with Database and UI For Rails Girls 2025
+# Website Development Ideas with Database and UI For Rails Workshop
 
 ## Simple CRUD-Based Projects (Database + UI)  
 
